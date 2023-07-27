@@ -31,7 +31,17 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently building <b>dised</b>.<br>- 🌱 I’m currently learning <b>Web Development</b>.<br>- 🚀 I’m open to new opportunities.<br>- 💬 Ask me about anything. <i>Engineer hu kuch to solution de hi dunga</i>.<br>- ⚡ Fun fact: I love to ride bikes.</p>
+<p align="left">
+  
+  - 🔭 I’m currently building <b>dised</b>.<br>
+  
+  - 🌱 I’m currently learning <b>Web Development</b>.<br>
+  
+  - 🚀 I’m open to new opportunities.<br>
+  
+  - 💬 Ask me about anything. <i>Engineer hu kuch to solution de hi dunga</i>.<br>
+  
+  - ⚡ Fun fact: I love to ride bikes.</p>
 
 ###
 
