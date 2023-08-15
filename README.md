@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Tushar Mukhopadhyay</h1>
-<h3 align="center">An entrepreneur from India</h3>
+<h3 align="center">An engineer from India</h3>
 
 
 - 🔭 I’m currently working on **diSed**
